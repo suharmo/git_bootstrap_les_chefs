@@ -1,0 +1,26 @@
+{
+  "name": "git_bootstrap_les_chefs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionation/git_bootstrap_les_chefs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dionation/git_bootstrap_les_chefs/issues"
+  },
+  "homepage": "https://github.com/dionation/git_bootstrap_les_chefs#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "fontawesome": "^5.6.3"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3"
+  }
+}
